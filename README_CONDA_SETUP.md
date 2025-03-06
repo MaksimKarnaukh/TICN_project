@@ -73,7 +73,7 @@ For VS Code, you can configure the interpreter [this way](https://docs.anaconda.
 ## **7. Uninstalling an Environment**
 To remove an environment (after deactivating it):
 ```bash
-conda remove -n myenv_tf215
+conda remove -n myenv_tf215 --all
 ```
 
 ---
